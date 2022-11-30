@@ -36,7 +36,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: 안녕하세요! <br> Greetings <br> Kia ora
+  hero-title: 안녕하세요! <br> Greetings! <br> Kia ora!
 
 social:
   - { icon: "ti-facebook", link: "#" }
@@ -48,7 +48,7 @@ social:
 # About (Section and Page)
 
 # About Section
-blurb: about about.
+blurb: testing for fixing about text thank you
 
 blurb-btn-link: "/about"
 blurb-btn-name: know more
