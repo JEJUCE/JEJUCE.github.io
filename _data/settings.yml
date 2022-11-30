@@ -9,7 +9,7 @@ description: this is meta description
 email: cjm064@naver.com
 phone: +82 10 4911 6794
 address: 
-copyright: Copyright &copy; 2020 Designed by
+copyright: Copyright &copy; 2020 Designed by)
 
 menu:
   - { name: About, link: "/about" }
@@ -36,7 +36,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: 안녕하세요! <br> Greetings <br> Kia ora
 
 social:
   - { icon: "ti-facebook", link: "#" }
