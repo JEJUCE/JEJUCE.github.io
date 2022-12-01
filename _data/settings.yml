@@ -80,31 +80,31 @@ skills:
 experience-title: Experience
 experience:
   - {
-      name: Assistant Instructor(High School-University linkage Program),
+      name: Assistant Instructor<br>(High School-University linkage Program),
       icon: "icon-1.png",
       date: "April 2022 – July 2022",
       organization: "Jeju National University Intelligent Software Education Research Institute",
     }
   - {
-      name: Assistant Instructor(AI hackathon Program),
+      name: Assistant Instructor<br>(AI hackathon Program),
       icon: "icon-2.png",
       date: "October 2022",
       organization: "Jeju National University Intelligent Software Education Research Institute. <br> Jeju Province. <br> Jeju National University.",
     }
   - {
-      name: Team Leader(Industry-Academic Cooperation Project),
+      name: Team Leader<br>(Industry-Academic Cooperation Project),
       icon: "icon-3.png",
       date: "March 2022 - August 2022",
       organization: "SW-Centered University of Jeju National University",
     }
   - {
-      name: Lead Organizer(TEDxJNUHighSchool),
+      name: Lead Organizer<br>(TEDxJNUHighSchool),
       icon: "icon-3.png",
       date: "September 2017 - December 2018",
       organization: "TEDxJNUHighSchool",
     }
   - {
-      name: Advisor(TEDxJNUHighSchool),
+      name: Advisor<br>(TEDxJNUHighSchool),
       icon: "icon-3.png",
       date: "December 2018 - Present",
       organization: "TEDxJNUHighSchool",
