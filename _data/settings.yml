@@ -36,7 +36,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: 안녕하세요! <br> Greetings! <br> Kia ora!! 
+  hero-title: 안녕하세요! <br> Greetings! <br> Kia ora!
 
 social:
   - { icon: "ti-instagram", link: "#" }
@@ -80,24 +80,24 @@ skills:
 experience-title: Experience
 experience:
   - {
-      name: Assistant Instructor<br>(High School-University linkage Program),
+      name: Assistant Instructor(High School-University linkage Program),
       icon: "icon-1.png",
       date: "April 2022 – July 2022",
-      organization: "Jeju National University Intelligent Software Education Research Institute.",
+      organization: "Jeju National University Intelligent Software Education Research Institute",
     }
   - {
-      name: Assistant Instructor<br>(AI hackathon Program),
+      name: Assistant Instructor(AI hackathon Program),
       icon: "icon-2.png",
       date: "October 2022",
-      organization: "Jeju National University Intelligent Software Education Research Institute. <br> Jeju Province.<br> Jeju National University.",
+      organization: "Jeju National University Intelligent Software Education Research Institute <br> Jeju Province<br> Jeju National University",
     }
-    - {
-      name: Senior,
+  - {
+      name: Senior UI Designer,
       icon: "icon-3.png",
-      date: "Sep 2022 - Present",
+      date: "Sep 2014 - Present",
       organization: "THEMEFISHER",
     }
- 
+
 #-------------------------------
 # Education Section
 
@@ -120,6 +120,29 @@ education:
     }
 
 
+#-------------------------------
+# Services Section
+
+services-title: Services
+services:
+  - {
+      name: UI Design,
+      icon: ti-palette,
+      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      active: ,# Add true to select section
+    }
+  - {
+      name: UX Design,
+      icon: ti-vector,
+      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      active: true, # Add true to select section
+    }
+  - {
+      name: Interaction Design,
+      icon: ti-panel,
+      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      active: ,# Add true to select section
+    }
 
 #-------------------------------
 # Portfolio (Section and Page)
@@ -134,7 +157,7 @@ portfolio-home-items:
 
   - image: "assets/images/portfolio/item-3.png"
     url: "#"
- 
+
   - image: "assets/images/portfolio/item-4.png"
     url: "#"
 
