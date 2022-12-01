@@ -36,7 +36,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: 안녕하세요! <br> Greetings! <br> Kia ora!
+  hero-title: 안녕하세요! <br> Greetings! <br> Kia ora!!
 
 social:
   - { icon: "ti-instagram", link: "#" }
@@ -91,13 +91,19 @@ experience:
       date: "October 2022",
       organization: "Jeju National University Intelligent Software Education Research Institute. <br> Jeju Province.<br> Jeju National University.",
     }
-  - {
+    - {
+      name: Senior,
+      icon: "icon-3.png",
+      date: "Sep 2022 - Present",
+      organization: "THEMEFISHER",
+    }
+  '''- {
       name: Leader(Industry-Academic Cooperation Project),
       icon: "icon-3.png",
       date: "March 2022 - August 2022",
       organization: "SW-Centered University of Jeju National University ",
     }
-  '''- {
+  - {
       name: Lead Organizer,
       icon: "icon-3.png",
       date: "September 2017 - December 2018",
