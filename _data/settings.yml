@@ -89,25 +89,25 @@ experience:
       name: Assistant Instructor(AI hackathon Program),
       icon: "icon-2.png",
       date: "October 2022",
-      organization: "Jeju National University Intelligent Software Education Research Institute <br> Jeju Province<br> Jeju National University",
+      organization: "Jeju National University Intelligent Software Education Research Institute. <br> Jeju Province. <br> Jeju National University.",
     }
   - {
-      name: Leader,
+      name: Team Leader(Industry-Academic Cooperation Project),
       icon: "icon-3.png",
-      date: "Sep 2014 - Present",
-      organization: "THEMEFISHER",
+      date: "March 2022 - August 2022",
+      organization: "SW-Centered University of Jeju National University",
     }
   - {
-      name: Leader,
+      name: Lead Organizer(TEDxJNUHighSchool),
       icon: "icon-3.png",
-      date: "Sep 2014 - Present",
-      organization: "THEMEFISHER",
+      date: "September 2017 - December 2018",
+      organization: "TEDxJNUHighSchool",
     }
   - {
-      name: Leader,
+      name: Advisor(TEDxJNUHighSchool),
       icon: "icon-3.png",
-      date: "Sep 2014 - Present",
-      organization: "THEMEFISHER",
+      date: "December 2018 - Present",
+      organization: "TEDxJNUHighSchool",
     }
   - {
       name: Leader,
