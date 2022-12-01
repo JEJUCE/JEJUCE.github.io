@@ -97,24 +97,7 @@ experience:
       date: "Sep 2022 - Present",
       organization: "THEMEFISHER",
     }
-  '''- {
-      name: Leader(Industry-Academic Cooperation Project),
-      icon: "icon-3.png",
-      date: "March 2022 - August 2022",
-      organization: "SW-Centered University of Jeju National University ",
-    }
-  - {
-      name: Lead Organizer,
-      icon: "icon-3.png",
-      date: "September 2017 - December 2018",
-      organization: "TEDxJNUHighSchool",
-    }
-      - {
-      name: Advisor, 
-      icon: "icon-3.png",
-      date: " December 2018 - Present",
-      organization: "TEDxJNUHighSchool",
-    }''' 
+ 
 #-------------------------------
 # Education Section
 
