@@ -80,16 +80,16 @@ skills:
 experience-title: Experience
 experience:
   - {
-      name: Assistant Instructor(High School-University linkage Program),
+      name: Assistant Instructor<br>(High School-University linkage Program),
       icon: "icon-1.png",
       date: "April 2022 – July 2022",
-      organization: "Jeju National University Intelligent Software Education Research Institute",
+      organization: "Jeju National University Intelligent Software Education Research Institute.",
     }
   - {
-      name: Assistant Instructor(AI hackathon Program),
+      name: Assistant Instructor<br>(AI hackathon Program),
       icon: "icon-2.png",
       date: "October 2022",
-      organization: "Jeju National University Intelligent Software Education Research Institute <br> Jeju Province<br> Jeju National University",
+      organization: "Jeju National University Intelligent Software Education Research Institute. <br> Jeju Province.<br> Jeju National University.",
     }
   - {
       name: Leader(Industry-Academic Cooperation Project),
