@@ -80,16 +80,16 @@ skills:
 experience-title: Experience
 experience:
   - {
-      name: Junior UX Designer,
+      name: Assistant Instructor(High School-University linkage Program),
       icon: "icon-1.png",
-      date: "Jan 2007 - Feb 2009",
-      organization: "WEBEX",
+      date: "April 2022 – July 2022",
+      organization: "Jeju National University Intelligent Software Education Research Institute",
     }
   - {
-      name: UX & UI Designer,
+      name: Assistant Instructor(AI hackathon Program),
       icon: "icon-2.png",
-      date: "Mar 2009 - Aug 2014",
-      organization: "AUGMEDIX",
+      date: "October 2022",
+      organization: "Jeju National University Intelligent Software Education Research Institute, Jeju Province, Jeju National University",
     }
   - {
       name: Senior UI Designer,
