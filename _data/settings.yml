@@ -104,7 +104,7 @@ experience:
       organization: "TEDxJNUHighSchool",
     }
       - {
-      name: Advisor,
+      name: Advisor, 
       icon: "icon-3.png",
       date: " December 2018 - Present",
       organization: "TEDxJNUHighSchool",
