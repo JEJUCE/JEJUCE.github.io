@@ -104,25 +104,21 @@ experience:
 education-title: Education
 education:
   - {
-      name: Marters in UX Design,
-      date: "2006",
-      organization: "Masassusets Institute of Technology",
+      name: Bachelor of Science in Computer Education,
+      date: "March 2020 - Present",
+      organization: "Jeju National University",
     }
   - {
-      name: Honours in Fine Arts,
-      date: "2004",
-      organization: "Harvard University",
+      name: Minor of Big Data Convergence,
+      date: "March 2022 - Present",
+      organization: "Jeju National University",
     }
   - {
-      name: Higher Secondary Certificat,
-      date: "2000",
-      organization: "Cardiff School",
+      name: English Language for Software Engineering,
+      date: "July 2022 – August 2022",
+      organization: "Auckland University of Technology",
     }
-  - {
-      name: Secondary School Certificate,
-      date: "1998",
-      organization: "Cardiff School",
-    }
+
 
 #-------------------------------
 # Services Section
