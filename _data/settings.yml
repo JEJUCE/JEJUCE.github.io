@@ -97,7 +97,7 @@ experience:
       date: "March 2022 - August 2022",
       organization: "SW-Centered University of Jeju National University ",
     }
-  - {
+  '''- {
       name: Lead Organizer,
       icon: "icon-3.png",
       date: "September 2017 - December 2018",
@@ -108,7 +108,7 @@ experience:
       icon: "icon-3.png",
       date: " December 2018 - Present",
       organization: "TEDxJNUHighSchool",
-    }
+    }'''
 #-------------------------------
 # Education Section
 
