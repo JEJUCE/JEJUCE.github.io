@@ -39,10 +39,7 @@ hero:
   hero-title: 안녕하세요! <br> Greetings! <br> Kia ora!
 
 social:
-  - { icon: "ti-facebook", link: "#" }
   - { icon: "ti-instagram", link: "#" }
-  - { icon: "ti-dribbble", link: "#" }
-  - { icon: "ti-twitter", link: "#" }
 
 #-------------------------------
 # About (Section and Page)
@@ -73,10 +70,9 @@ work-process:
 
 skills-title: Skills
 skills:
-  - { name: Web Design, color: "#fdb157", value: "90%" }
-  - { name: Logo Design, color: "#9473e6", value: "60%" }
-  - { name: After Effects, color: "#bdecf6", value: "80%" }
-  - { name: Web App, color: "#ffbcaa", value: "70%" }
+  - { name: C, color: "#fdb157", value: "20%" }
+  - { name: Python, color: "#9473e6", value: "40%" }
+  - { name: Java, color: "#9473e6", value: "40%" }
 
 #-------------------------------
 # Exprerience Section
