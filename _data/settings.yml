@@ -14,7 +14,7 @@ copyright: Copyright &copy; 2020 Designed by)
 menu:
   - { name: About, link: "/about" }
   - { name: Blog, link: "/blog" }
-  - { name: Portfolio, link: "/portfolio" }
+  - { name: Archive, link: "/portfolio" }
   - { name: Contact, link: "/contact" }
 
 #-------------------------------
