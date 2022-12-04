@@ -17,6 +17,14 @@ menu:
   - { name: Archive, link: "/portfolio" }
   - { name: Contact, link: "/contact" }
 
+#-------------------------------
+# Google Analytics Section
+
+# Analytics helps you understand who visits your website.
+# Learn more at: http://support.google.com/analytics/answer/1008065
+
+# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
+
 google-analytics: # UA-XXXXXX-X
 
 #-------------------------------
@@ -100,7 +108,12 @@ experience:
       date: "December 2018 - Present",
       organization: "TEDxJNUHighSchool",
     }
-
+  - {
+      name: Leader,
+      icon: "icon-3.png",
+      date: "Sep 2014 - Present",
+      organization: "THEMEFISHER",
+    }
 
 #-------------------------------
 # Education Section
@@ -131,10 +144,10 @@ education:
 # Portfolio Home Section
 portfolio-home-items:
   - image: "assets/images/portfolio/NZ1.png"
-    url: "/portfolio"
+   
 
   - image: "assets/images/portfolio/NZ2.jpg"
-    url: "/portfolio"
+  
   - image: "assets/images/portfolio/NZ3.jpg"
  
 
