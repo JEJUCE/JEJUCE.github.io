@@ -143,49 +143,83 @@ education:
 
 # Portfolio Home Section
 portfolio-home-items:
-  - image: "assets/images/portfolio/item-1.png"
+  - image: "assets/images/portfolio/NZ1.jpg"
     url: "#"
 
-  - image: "assets/images/portfolio/item-2.jpg"
+  - image: "assets/images/portfolio/NZ2.jpg"
     url: "#"
 
-  - image: "assets/images/portfolio/item-3.jpg"
+  - image: "assets/images/portfolio/NZ3.jpg"
     url: "#"
 
-  - image: "assets/images/portfolio/item-4.png"
+  - image: "assets/images/portfolio/Jeju1.jpg"
     url: "#"
 
-  - image: "assets/images/portfolio/item-5.png"
+  - image: "assets/images/portfolio/Jeju2.jpg"
+    url: "#"
+  
+  - image: "assets/images/portfolio/Jeju3.jpg"
+    url: "#"
+    
+  - image: "assets/images/portfolio/Jeju4.jpg"
+    url: "#"
+
+  - image: "assets/images/portfolio/Jeju5.jpg"
+    url: "#"
+
+  - image: "assets/images/portfolio/Jeju6.jpg"
+    url: "#"
+
+  - image: "assets/images/portfolio/Jeju7.jpg"
+    url: "#"
+
+  - image: "assets/images/portfolio/Jeju8.jpg"
     url: "#"
 
 # Portfolio Page
 portfolio-label:
-  - { title: "Jeju", type: "design" }
+  - { title: "Jeju", type: "Jeju" }
   - { title: "NewZealand", type: "NewZealand" }
   - { title: "Etc.", type: "illustration" }
 
 portfolio-items:
-  - image: "assets/images/portfolio/item-1.png"
+  - image: "assets/images/portfolio/NZ1.jpg"
     url: "#"
     portfolio-type:
       - type: "design"
       - type: "NewZealand"
 
-  - image: "assets/images/portfolio/item-2.jpg"
+  - image: "assets/images/portfolio/NZ2.jpg"
     url: "#"
     portfolio-type:
       - type: "NewZealand"
 
-  - image: "assets/images/portfolio/item-3.jpg"
+  - image: "assets/images/portfolio/NZ3.jpg"
     url: "#"
     portfolio-type:
       - type: "NewZealand"
 
-  - image: "assets/images/portfolio/item-6.png"
+  - image: "assets/images/portfolio/Jeju1.jpg"
     url: "#"
     portfolio-type:
-      - type: "design"
-      - type: "branding"
+      - type: "Jeju"
+ 
+  - image: "assets/images/portfolio/Jeju2.jpg"
+    url: "#"
+    portfolio-type:
+      - type: "Jeju"
+  
+  - image: "assets/images/portfolio/Jeju3.jpg"
+    url: "#"
+    portfolio-type:
+      - type: "Jeju"
+
+  - image: "assets/images/portfolio/Jeju4.jpg"
+    url: "#"
+    portfolio-type:
+      - type: "Jeju"
+
+
 
   - image: "assets/images/portfolio/item-8.png"
     url: "#"
