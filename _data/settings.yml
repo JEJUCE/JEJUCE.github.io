@@ -160,26 +160,26 @@ portfolio-home-items:
 
 # Portfolio Page
 portfolio-label:
-  - { title: "UI/UX Design", type: "design" }
-  - { title: "BRANDING", type: "branding" }
-  - { title: "ILLUSTRATION", type: "illustration" }
+  - { title: "Jeju", type: "design" }
+  - { title: "NewZealand", type: "NewZealand" }
+  - { title: "Etc.", type: "illustration" }
 
 portfolio-items:
   - image: "assets/images/portfolio/item-1.png"
     url: "#"
     portfolio-type:
       - type: "design"
-      - type: "illustration"
+      - type: "NewZealand"
 
-  - image: "assets/images/portfolio/item-2.png"
+  - image: "assets/images/portfolio/item-2.jpg"
     url: "#"
     portfolio-type:
-      - type: "branding"
+      - type: "NewZealand"
 
-  - image: "assets/images/portfolio/item-3.png"
+  - image: "assets/images/portfolio/item-3.jpg"
     url: "#"
     portfolio-type:
-      - type: "illustration"
+      - type: "NewZealand"
 
   - image: "assets/images/portfolio/item-6.png"
     url: "#"
