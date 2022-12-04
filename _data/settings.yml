@@ -144,13 +144,13 @@ education:
 # Portfolio Home Section
 portfolio-home-items:
   - image: "assets/images/portfolio/NZ1.jpg"
-  
+    url: "#"
 
   - image: "assets/images/portfolio/NZ2.jpg"
-  
+    url: "#"
 
   - image: "assets/images/portfolio/NZ3.jpg"
-  
+    url: "#"
 
   - image: "assets/images/portfolio/Jeju1.jpg"
     url: "#"
@@ -184,18 +184,18 @@ portfolio-label:
 
 portfolio-items:
   - image: "assets/images/portfolio/NZ1.jpg"
-
+    url: "#"
     portfolio-type:
       - type: "design"
       - type: "NewZealand"
 
   - image: "assets/images/portfolio/NZ2.jpg"
-   
+    url: "#"
     portfolio-type:
       - type: "NewZealand"
 
   - image: "assets/images/portfolio/NZ3.jpg"
-   
+    url: "#"
     portfolio-type:
       - type: "NewZealand"
 
