@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Amazon increase income 1.5 Million
+title:  kia ora
 date:   2022-07-17 08:30:00 +0300
-image:  /assets/images/blog/1-1.jpg, /assets/images/blog/1-2.jpg
+image:  /assets/images/blog/1-1.jpg
 author: Chris
 tags:   New Zealand
 ---
