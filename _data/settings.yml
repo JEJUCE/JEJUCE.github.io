@@ -140,7 +140,6 @@ education:
 # Portfolio (Section and Page)
 
 # Portfolio Home Section
-portfolio-title : Photo
 portfolio-home-items:
   - image: "assets/images/portfolio/NZ1.png"
    
