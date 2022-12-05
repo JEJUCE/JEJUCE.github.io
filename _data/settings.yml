@@ -52,17 +52,15 @@ blurb-btn-name: know more
 content: career
 # Work Process Section
 work-process:
-  - title: "Bachelor of Science in Computer Education"
-    icon: ""
+  - title: "Computer Education"
+    icon: "assets/images/icons/jnu.ai"
     content: "Major"
 
-  - title: "Design and Develop"
+  - title: "TEDXJNUHighSchool"
     icon: "assets/images/icons/design.png"
-    content: "test2"
+    content: "Advisor"
 
-  - title: "Deliver"
-    icon: "assets/images/icons/print.png"
-    content: "test3"
+ 
 
 
 # Skills Section
