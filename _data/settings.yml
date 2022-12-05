@@ -44,105 +44,17 @@ hero:
 # About (Section and Page)
 
 # About Section
-blurb: testing for fixing about text thank you
+blurb: 반갑습니다.
 blurb-btn-link: "/about"
 blurb-btn-name: know more
 
 # About Page
-content: testing
-
-work-process:
-  - title: "Research and Plan"
-    icon: "assets/images/icons/plan.png"
-    content: "test"
-
-  - title: "Design and Develop"
-    icon: "assets/images/icons/design.png"
-    content: "test2"
-
-  - title: "Deliver"
-    icon: "assets/images/icons/print.png"
-    content: "test3"
-
-
-# Skills Section
-
-skills-title: Skills
-skills:
-  - { name: C, color: "#fdb157", value: "20%" }
-  - { name: Python, color: "#9473e6", value: "40%" }
-  - { name: Java, color: "#9473e6", value: "40%" }
-
-#-------------------------------
-# Exprerience Section
-
-experience-title: Experience
-experience:
-  - {
-      name: Assistant Instructor<br>(AI hackathon Program),
-      icon: "icon-2.png",
-      date: "October 2022",
-      organization: "Jeju National University Intelligent Software Education Research Institute. <br> Jeju Province. <br> Jeju National University.",
-    }
-  - {
-      name: Assistant Instructor<br>(High School-University linkage Program),
-      icon: "icon-1.png",
-      date: "April 2022 – July 2022",
-      organization: "Jeju National University Intelligent Software Education Research Institute",
-    }
-  - {
-      name: Team Leader<br>(Industry-Academic Cooperation Project),
-      icon: "icon-3.png",
-      date: "March 2022 - August 2022",
-      organization: "SW-Centered University of Jeju National University",
-    }
-  - {
-      name: Lead Organizer<br>(TEDxJNUHighSchool),
-      icon: "icon-1.png",
-      date: "September 2017 - December 2018",
-      organization: "TEDxJNUHighSchool",
-    }
-  - {
-      name: Advisor<br>(TEDxJNUHighSchool),
-      icon: "icon-2.png",
-      date: "December 2018 - Present",
-      organization: "TEDxJNUHighSchool",
-    }
-  - {
-      name: Leader,
-      icon: "icon-3.png",
-      date: "Sep 2014 - Present",
-      organization: "THEMEFISHER",
-    }
-
-#-------------------------------
-# Education Section
-
-education-title: Education
-education:
-  - {
-      name: Bachelor of Science in Computer Education,
-      date: "March 2020 - Present",
-      organization: "Jeju National University",
-    }
-  - {
-      name: Minor of Big Data Convergence,
-      date: "March 2022 - Present",
-      organization: "Jeju National University",
-    }
-  - {
-      name: English Language for Software Engineering,
-      date: "July 2022 – August 2022",
-      organization: "Auckland University of Technology",
-    }
-
-
-
+content: career
 # Work Process Section
 work-process:
-  - title: "Research and Plan"
-    icon: "assets/images/icons/plan.png"
-    content: "test"
+  - title: "Bachelor of Science in Computer Education"
+    icon: ""
+    content: "Major"
 
   - title: "Design and Develop"
     icon: "assets/images/icons/design.png"
