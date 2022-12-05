@@ -41,6 +41,7 @@ hero:
 
 
 #-------------------------------
+
 # About (Section and Page)
 
 # About Section
@@ -49,13 +50,13 @@ blurb-btn-link: "/about"
 blurb-btn-name: know more
 
 # About Page
-content: career
+content: 
 # Work Process Section
 work-process:
   - title: "Computer Education"
     icon: "assets/images/icons/jnu.png"
     content: "Major"
-
+    
   - title: "TEDXJNUHighSchool"
     icon: "assets/images/icons/design.png"
     content: "Advisor"
