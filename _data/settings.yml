@@ -53,7 +53,7 @@ content: career
 # Work Process Section
 work-process:
   - title: "Computer Education"
-    icon: "assets/images/icons/jnu.ai"
+    icon: "assets/images/icons/jnu.png"
     content: "Major"
 
   - title: "TEDXJNUHighSchool"
@@ -140,6 +140,7 @@ education:
 # Portfolio (Section and Page)
 
 # Portfolio Home Section
+portfolio-title : Photo
 portfolio-home-items:
   - image: "assets/images/portfolio/NZ1.png"
    
