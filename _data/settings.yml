@@ -57,7 +57,7 @@ work-process:
     icon: "assets/images/icons/jnu.png"
     content: "Major"
 
-    - title: "Big Data Convergence"
+  - title: "Big Data Convergence"
     icon: "assets/images/icons/jnu.png"
     content: "Minor"
 
