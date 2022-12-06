@@ -56,9 +56,13 @@ work-process:
   - title: "Computer Education"
     icon: "assets/images/icons/jnu.png"
     content: "Major"
-    
+
+    - title: "Big Data Convergence"
+    icon: "assets/images/icons/jnu.png"
+    content: "Minor"
+
   - title: "TEDXJNUHighSchool"
-    icon: "assets/images/icons/tedx.png"
+    icon: "assets/images/tedx.png"
     content: "Advisor"
 
  
