@@ -62,10 +62,27 @@ work-process:
     content: "Minor"
 
   - title: "TEDXJNUHighSchool"
-    icon: "assets/images/tedx.png"
+    icon: "assets/images/tedx.jpg"
     content: "Advisor"
 
  
+education-title: Education
+education:
+  - {
+      name: Bachelor of Science in Computer Education,
+      date: "March 2020 - Present",
+      organization: "Jeju National University",
+    }
+  - {
+      name: Minor of Big Data Convergence,
+      date: "March 2022 - Present",
+      organization: "Jeju National University",
+    }
+  - {
+      name: English Language for Software Engineering,
+      date: "July 2022 – August 2022",
+      organization: "Auckland University of Technology",
+    }
 
 
 # Skills Section
