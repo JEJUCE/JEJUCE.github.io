@@ -45,7 +45,7 @@ hero:
 # About (Section and Page)
 
 # About Section
-blurb: 반갑습니다.<br>Mezze는 그리스,터키 지방에서 애피타이저로 제공되는 작은 요리입니다.<br>때로는 애피타이저 처럼 가볍게 때로는 식사로서 즐길 수 있는 블로그를 즐겨주셨으면 합니다.
+blurb: 반갑습니다.<br>Mezze는 그리스,터키 지방에서 애피타이저로 제공되는 작은 요리입니다.<br>때로는 애피타이저 처럼 가볍게, 때로는 식사로서 즐길 수 있는 블로그로 즐겨주셨으면 합니다.
 blurb-btn-link: "/about"
 blurb-btn-name: know more
 
@@ -133,6 +133,12 @@ experience:
       icon: "icon-3.png",
       date: "April 2022 – October 2022",
       organization: "Jeju Social Welfare Center ChildFund Korea",
+    }
+  - {
+      name: Mentor<br>(SW Innovation Lecture),
+      icon: "icon-2.png",
+      date: "September 2022 -December 2022",
+      organization: "Jeju National University",
     }
 
 #-------------------------------
