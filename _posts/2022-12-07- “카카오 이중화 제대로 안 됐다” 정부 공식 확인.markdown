@@ -2,7 +2,7 @@
 layout: post
 title:  “카카오 이중화 제대로 안 됐다” 정부 공식 확인
 date:   2022-12-07 06:44:00 +0300
-image:  /assets/images/blog/post-5.jpg
+image:  /assets/images/blog/post-2.jpg
 author: 지형철
 tags:   KBS 
 ---
@@ -36,6 +36,6 @@ tags:   KBS
 
 한편 이번 사태의 시작인 배터리 발화 원인은 아직 구체적으로 나오지 않았단 이유로 발표에서 빠졌습니다.
 
-> https://news.kbs.co.kr/news/view.do?ncd=5618267&amp;ref=A
+> <a href="https://news.kbs.co.kr/news/view.do?ncd=5618267&amp;ref=A">기사</a>
 
 지형철 (ican@kbs.co.kr)
