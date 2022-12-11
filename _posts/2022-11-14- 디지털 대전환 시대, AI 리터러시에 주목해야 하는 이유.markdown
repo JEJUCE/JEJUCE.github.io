@@ -2,7 +2,7 @@
 layout: post
 title:  디지털 대전환 시대, AI 리터러시에 주목해야 하는 이유
 date:   2022-11-14 12:00:00 +0300
-image:  /assets/images/blog/post-5.jpg
+image:  /assets/images/blog/post-3.jpg
 author: 성미영
 tags:  기호일보
 ---
@@ -25,4 +25,5 @@ tags:  기호일보
 
 
 
-> 출처 : 기호일보 - 아침을 여는 신문(http://www.kihoilbo.co.kr)
+><a href="https://www.kihoilbo.co.kr/news/articleView.html?idxno=1003496">기사</a>
+ 
