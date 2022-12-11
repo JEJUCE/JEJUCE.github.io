@@ -6,7 +6,7 @@ image:  /assets/images/blog/post-3.jpg
 author: 성미영
 tags:  기호일보
 ---
-<br><br><br><br><br><br><br><br><br><br> 
+<br><br><br><br><br><br><br><br>
 
 **세계는 ‘완전한 디지털 사회’로 향하고 있고, 그 동력은 AI 기반의 디지털 전환 기술이다.**
 
