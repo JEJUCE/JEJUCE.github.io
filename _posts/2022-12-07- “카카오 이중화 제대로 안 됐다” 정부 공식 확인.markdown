@@ -6,7 +6,7 @@ image:  /assets/images/blog/post-2.jpg
 author: 지형철
 tags:   KBS 
 ---
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br>
 
 **정부의 공식 조사 결과가 나왔는데요, 화재가 난 배터리와 비상전원장치가 인접해 있었고, 카카오는 서비스 이중화가 제대로 안 돼 있었던 사실이 확인됐습니다.**
 
