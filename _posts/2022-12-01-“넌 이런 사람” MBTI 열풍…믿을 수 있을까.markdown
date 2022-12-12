@@ -2,7 +2,7 @@
 layout: post
 title:  “넌 이런 사람” MBTI 열풍…믿을 수 있을까
 date:   2022-07-12 12:00:00 +0300
-image:  /assets/images/blog/post-15jpg
+image:  /assets/images/blog/post-13jpg
 author: 이충헌 
 tags:  KBS
 ---
