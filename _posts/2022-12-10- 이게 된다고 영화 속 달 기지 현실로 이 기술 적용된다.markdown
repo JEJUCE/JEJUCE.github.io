@@ -6,7 +6,7 @@ image:  /assets/images/blog/post-7.jpg
 author: 이정봉
 tags:   중앙일보 
 ---
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 **미국 항공우주국(NASA)이 3D 프린트 기술로 달 기지를 건설합니다. 착륙장, 거주지, 도로와 같은 인프라를 3D 프린트로 짓는다는 거죠. NASA가 야심차게 추진하고 있는 21세기 달탐사 계획 ‘아르테미스 계획(Artemis Program)’의 일환입니다.**
 
