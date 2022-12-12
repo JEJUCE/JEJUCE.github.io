@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  코모두를 위한 인공지능을 위해...구글, AI의 A부터 Z까지 공개
+title:  모두를 위한 인공지능을 위해...구글, AI의 A부터 Z까지 공개
 date:   2022-11-21 12:00:00 +0300
 image:  /assets/images/blog/post-15.jpg
 author: 김동원

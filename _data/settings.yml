@@ -214,19 +214,12 @@ portfolio-items:
     url: "#"
     portfolio-type:
       - type: "NewZealand"
+
   - image: "assets/images/portfolio/NZ5.jpg"
     url: "#"
     portfolio-type:
       - type: "NewZealand"
 
-  - image: "assets/images/portfolio/NZ6.jpg"
-    url: "#"
-    portfolio-type:
-      - type: "NewZealand"
-  - image: "assets/images/portfolio/NZ7.jpg"
-    url: "#"
-    portfolio-type:
-      - type: "NewZealand"
 
   - image: "assets/images/portfolio/Jeju1.jpg"
     url: "#"
