@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  '대한민국 관광기념품 공모전' 수상작 발표…'설화탐정AR 도서' 대상
-date:   2022-11-28 09:37:00 +0300
+title:'대한민국 관광기념품 공모전' 수상작 발표…'설화탐정AR 도서' 대상
+date:   2022-11-18 05:00:00 +0300
 image:  /assets/images/blog/post-11.jpg
-author: 두정아 
-tags:  뉴스 저널리즘
+author: 두정아
+tags:  뉴스저널리즘
 ---
 <br><br><br><br><br><br><br><br>
 
