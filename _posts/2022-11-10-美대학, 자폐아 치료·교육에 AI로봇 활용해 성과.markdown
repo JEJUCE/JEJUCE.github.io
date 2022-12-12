@@ -6,7 +6,7 @@ image:  /assets/images/blog/post-16.jpg
 author: 이성원 
 tags:  로봇뉴스
 ---
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 **“사회적으로 도움을 줄 수 있는 보조로봇이 들어오게 되는 것”이라고 말했다.**
 
