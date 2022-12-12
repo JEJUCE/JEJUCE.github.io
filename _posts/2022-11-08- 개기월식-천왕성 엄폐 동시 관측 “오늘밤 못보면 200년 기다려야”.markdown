@@ -6,7 +6,7 @@ image:  /assets/images/blog/post-9.jpg
 author: 홍석호 
 tags:   동아일보
 ---
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 **8일 한국 전역에서 개기월식과 천왕성 엄폐가 동시에 나타나는 드문 장면을 관측할 수 있다.**
 
