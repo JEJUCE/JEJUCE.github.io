@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  AI that makes images: 10 Breakthrough Technologies 2023
+title:  AI that makes images 10 Breakthrough Technologies 2023
 
 date:   2023-01-09 06:44:00 +0300
-image:  /assets/images/blog/post-8.jpg
+image:  /assets/images/blog/post-20.jpg
 author: Will Douglas Heavenarchive page
 tags:   MIT Technology Review
 ---
