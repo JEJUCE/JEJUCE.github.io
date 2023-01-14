@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Organs on demand 10 Breakthrough Technologies 2023
-date:   2022-11-01 06:44:00 +0300
+date:   2023-01-09 06:44:00 +0300
 image:  /assets/images/blog/post-21.jpg
 author: Antonio Regaladoarchive 
 tags:   technologyreview
