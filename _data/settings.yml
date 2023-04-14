@@ -49,8 +49,10 @@ work-process:
   - title: "TEDXJNUHighSchool"
     icon: "assets/images/tedx.jpg"
     content: "Advisor"
-
- 
+  
+  - title: "Kakao Track"
+    icon: "" 
+    content: ""
 education-title: Education
 education:
   - {
@@ -90,19 +92,19 @@ experience-title: Experience
 experience:
   - {
       name: Mentor<br>(AI hackathon Program),
-      icon: "assets/images/experience/Mentor.png",
+      icon: "Mentor.png",
       date: "October 2022",
       organization: "Jeju National University Intelligent Software Education Research Institute. <br> Jeju Province. <br> Jeju National University.",
     }
   - {
       name: Assistant Instructor<br>(High School-University linkage Program),
-      icon: "assets/images/experience/Mentor.png",
+      icon: "Mentor.png",
       date: "April 2022 – July 2022",
       organization: "Jeju National University Intelligent Software Education Research Institute",
     }
   - {
       name: Team Leader<br>(Industry-Academic Cooperation Project),
-      icon: "assets/images/experience/Mentor.png",
+      icon: "Mentor.png",
       date: "March 2022 - August 2022",
       organization: "SW-Centered University of Jeju National University",
     }
@@ -114,25 +116,25 @@ experience:
     }
   - {
       name: Advisor<br>(TEDxJNUHighSchool),
-      icon: "assets/images/experience/Mentor.png",
+      icon: "Mentor.png",
       date: "December 2018 - Present",
       organization: "TEDxJNUHighSchool",
     }
   - {
       name: Mentor<br>(Jeju Social Welfare Center ChildFund Korea),
-      icon: "assets/images/experience/Mentor.png",
+      icon: "Mentor.png",
       date: "April 2022 – October 2022",
       organization: "Jeju Social Welfare Center ChildFund Korea",
     }
   - {
       name: Mentor<br>(SW Innovation Lecture),
-      icon: "assets/images/experience/Mentor.png",
+      icon: "Mentor.png",
       date: "September 2022 -December 2022",
       organization: "Jeju National University",
     }
   - {
       name: Mentor<br>(Multimedia),
-      icon: "assets/images/experience/Mentor.png",
+      icon: "Mentor.png",
       date: "March 2023 - Present",
       organization: "Jeju National University",
     }   
