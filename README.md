@@ -1,58 +1,58 @@
-# Kross Jekyll
+# 최종민 Jong-Min Choi(Chris)
 
-Kross Jekyll Creative Portfolio Template ported from [Kross HTML Template](https://themefisher.com/products/kross/)
+🎓 Major : Computer Education
+</br>
+🎓 Minor : Big Data Convergence
+</br>
+🏫 Advisor : TEDXJNUHighSchool
 
-## Demo
+</br>
 
-| Homepage  | About  | Blog  | Portfolio  | Contact  |
-|---|---|---|---|---|
-| ![Homepage](https://user-images.githubusercontent.com/37659754/58154295-1a9c5300-7c93-11e9-992c-ad8d2ff8d99f.png) | ![About](https://user-images.githubusercontent.com/37659754/58154317-28ea6f00-7c93-11e9-914b-b7e5f1cdab0e.png) | ![Blog](https://user-images.githubusercontent.com/37659754/58154339-369ff480-7c93-11e9-9568-53b7ebdc6b2d.png) | ![portfolio](https://user-images.githubusercontent.com/37659754/58154368-491a2e00-7c93-11e9-8900-f5a6abe0a61d.png) | ![contact](https://user-images.githubusercontent.com/37659754/58154403-57684a00-7c93-11e9-9cea-ea28253a6f6a.png) |
+## Introduction
+</br>
+Hello, I'm Choi Jong-min, majoring in computer education at Jeju National University.
+I am interested in Education (mainly Educational Engineering) and developing Edutech program.
 
-[Live Preview](http://demo.themefisher.com/kross).
+</br>
+</br>
+안녕하세요. 제주대학교 컴퓨터교육과 최종민입니다.
+교육(주로 교육공학)에 관심이 많으며, 에듀테크 개발 및 기획에 관심이 있습니다.
+</br> 
 
-## Setup
 
-To start your project, fork this repository
-After forking the repo, your site will be live immediately on your personal Github Pages account, e.g. `https://yourusername.github.io/your-repo-name/`.
+📁 Github-Blog : https://jejuce.github.io/about
+</br>
 
-Make sure GitHub Pages is enabled for your repo. It might take some time for the site to propagate entirely.
+# 💻 Work Experience
+## 🏫Mentor(Multimedia)
+March 2023 – Present
+</br>
+Jeju National University SW Convergence Education Center 
+</br>
 
-## Customize
+## 🏫Mentor(AI hackathon Program)
+October 2022
+</br>
+Jeju National University Intelligent Software Education Research Institute, Jeju Province, Jeju National University.
+</br>
 
-Things you can customize in `_data/settings.yml` (no HTML/CSS):
+## 🏫Assistant Instructor(High School-University linkage Program)
+April 2022 – July 2022
+</br>
+Jeju National University Intelligent Software Education Research Institute
+</br>
 
-- Theme General Settings ( name, logo, email, phone, address )
-- Hero Section
-- About Section
-- Team Section
-- Skills Section
-- Experience Section
-- Education Section
-- Services Section
-- Portfolio Section
-- Testimonials Section
-- Client Slider Section
-- Contact Section
+## 💻Team Leader(Industry-Academic Cooperation Project)
+March 2022 - August 2022
+</br>
+SW-Centered University of Jeju National University
+</br>
 
-## Deployment
+## 📁관심저장소
+#### 1. https://github.com/JEJUCE/entryjs.git
+* Entry GitHub 입니다.
+* 현재 Entry를 활용한 교육프로그램을 제작하고있어 API개발을 위해 관심을 두고 있는 저장소입니다.
 
-To run the theme locally, navigate to the theme directory and run `bundle install` to install the dependencies, then run `jekyll serve` or `bundle exec jekyll serve` to start the Jekyll server.
-I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on Jekyll's website.
-
-## Reporting Issues
-
-We use GitHub Issues as the official bug tracker for the **Kross Theme**. Please Search [existing issues](https://github.com/themefisher/kross-jekyll/issues). It’s possible someone has already reported the same problem.
-If your problem or idea is not addressed yet, [open a new issue](https://github.com/themefisher/kross-jekyll/issues/new)
-
-## Technical Support or Questions
-
-If you have questions or need help integrating the product please [contact us](mailto:themefisher@gmail.com) instead of opening an issue.
-
-<!-- licence -->
-## License
-
-Copyright (c) 2016 - Present, Designed & Developed by [Themefisher](https://themefisher.com)
-
-**Code License:** Released under the [MIT](https://github.com/themefisher/kross-jekyll/blob/main/LICENSE) license.
-
-**Image license:** The images are only for demonstration purposes. They have their license, we don't have permission to share those images.
+#### 2. https://github.com/JEJUCE/node.git
+* Node.js GitHub 입니다.
+* 자바스크립트를 통해 서버를 구축할수있고 현재 Entry 블록을 해당 환경에서 제작하고 있어 관심을 두고 있는 저장소입니다. 
