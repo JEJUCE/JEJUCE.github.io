@@ -18,21 +18,6 @@ menu:
   - { name: Contact, link: "/contact" }
 
 #-------------------------------
-# Google Analytics Section
-
-# Analytics helps you understand who visits your website.
-# Learn more at: http://support.google.com/analytics/answer/1008065
-
-# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
-
-google-analytics: # UA-XXXXXX-X
-
-#-------------------------------
-# Comment Section (Disqus)
-
-disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
-
-#-------------------------------
 # Hero Section
 
 hero:
@@ -79,6 +64,11 @@ education:
       organization: "Jeju National University",
     }
   - {
+      name: Kakao Track,
+      date: "August 2022 - Present",
+      organization: "Jeju National University, KaKao",
+    }
+  - {
       name: English Language for Software Engineering,
       date: "July 2022 – August 2022",
       organization: "Auckland University of Technology",
@@ -100,47 +90,52 @@ experience-title: Experience
 experience:
   - {
       name: Mentor<br>(AI hackathon Program),
-      icon: "icon-2.png",
+      icon: "🏫",
       date: "October 2022",
       organization: "Jeju National University Intelligent Software Education Research Institute. <br> Jeju Province. <br> Jeju National University.",
     }
   - {
       name: Assistant Instructor<br>(High School-University linkage Program),
-      icon: "icon-1.png",
+      icon: "🏫",
       date: "April 2022 – July 2022",
       organization: "Jeju National University Intelligent Software Education Research Institute",
     }
   - {
       name: Team Leader<br>(Industry-Academic Cooperation Project),
-      icon: "icon-3.png",
+      icon: "🚩",
       date: "March 2022 - August 2022",
       organization: "SW-Centered University of Jeju National University",
     }
   - {
       name: Lead Organizer<br>(TEDxJNUHighSchool),
-      icon: "icon-1.png",
+      icon: "🚩",
       date: "September 2017 - December 2018",
       organization: "TEDxJNUHighSchool",
     }
   - {
       name: Advisor<br>(TEDxJNUHighSchool),
-      icon: "icon-2.png",
+      icon: "📖",
       date: "December 2018 - Present",
       organization: "TEDxJNUHighSchool",
     }
   - {
       name: Mentor<br>(Jeju Social Welfare Center ChildFund Korea),
-      icon: "icon-3.png",
+      icon: "🏫",
       date: "April 2022 – October 2022",
       organization: "Jeju Social Welfare Center ChildFund Korea",
     }
   - {
       name: Mentor<br>(SW Innovation Lecture),
-      icon: "icon-2.png",
+      icon: "🏫",
       date: "September 2022 -December 2022",
       organization: "Jeju National University",
     }
-
+   - {
+      name: Mentor<br>(Multimedia),
+      icon: "🏫",
+      date: "March 2023 - Present",
+      organization: "Jeju National University",
+    }   
 #-------------------------------
 # Education Section
 
