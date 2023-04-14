@@ -90,19 +90,19 @@ experience-title: Experience
 experience:
   - {
       name: Mentor<br>(AI hackathon Program),
-      icon: "Mentor.png",
+      icon: "assets/images/experience/Mentor.png",
       date: "October 2022",
       organization: "Jeju National University Intelligent Software Education Research Institute. <br> Jeju Province. <br> Jeju National University.",
     }
   - {
       name: Assistant Instructor<br>(High School-University linkage Program),
-      icon: "Mentor.png",
+      icon: "assets/images/experience/Mentor.png",
       date: "April 2022 – July 2022",
       organization: "Jeju National University Intelligent Software Education Research Institute",
     }
   - {
       name: Team Leader<br>(Industry-Academic Cooperation Project),
-      icon: "Mentor.png",
+      icon: "assets/images/experience/Mentor.png",
       date: "March 2022 - August 2022",
       organization: "SW-Centered University of Jeju National University",
     }
@@ -114,25 +114,25 @@ experience:
     }
   - {
       name: Advisor<br>(TEDxJNUHighSchool),
-      icon: "Mentor.png",
+      icon: "assets/images/experience/Mentor.png",
       date: "December 2018 - Present",
       organization: "TEDxJNUHighSchool",
     }
   - {
       name: Mentor<br>(Jeju Social Welfare Center ChildFund Korea),
-      icon: "Mentor.png",
+      icon: "assets/images/experience/Mentor.png",
       date: "April 2022 – October 2022",
       organization: "Jeju Social Welfare Center ChildFund Korea",
     }
   - {
       name: Mentor<br>(SW Innovation Lecture),
-      icon: "Mentor.png",
+      icon: "assets/images/experience/Mentor.png",
       date: "September 2022 -December 2022",
       organization: "Jeju National University",
     }
    - {
       name: Mentor<br>(Multimedia),
-      icon: "Mentor.png",
+      icon: "assets/images/experience/Mentor.png",
       date: "March 2023 - Present",
       organization: "Jeju National University",
     }   
