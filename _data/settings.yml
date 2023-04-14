@@ -104,19 +104,19 @@ experience:
     }
   - {
       name: Team Leader<br>(Industry-Academic Cooperation Project),
-      icon: "Mentor.png",
+      icon: "Leader.png",
       date: "March 2022 - August 2022",
       organization: "SW-Centered University of Jeju National University",
     }
   - {
       name: Lead Organizer<br>(TEDxJNUHighSchool),
-      icon: "Mentor.png",
+      icon: "Leader.png",
       date: "September 2017 - December 2018",
       organization: "TEDxJNUHighSchool",
     }
   - {
       name: Advisor<br>(TEDxJNUHighSchool),
-      icon: "Mentor.png",
+      icon: "Adviser.png",
       date: "December 2018 - Present",
       organization: "TEDxJNUHighSchool",
     }
