@@ -51,7 +51,7 @@ work-process:
     content: "Advisor"
   
   - title: "Kakao Track"
-    icon: "" 
+    icon: "assets/images/icons/Kakao.png" 
     content: ""
 education-title: Education
 education:
