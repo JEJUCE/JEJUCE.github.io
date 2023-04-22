@@ -8,7 +8,7 @@ author: Chris Jong-min Choi
 description: this is meta description
 email: cjm064@naver.com
 phone: +82 10 4911 6794
-address: 
+address: Jeju National University, 102 Jejudaehak-ro, Jeju-si, College of Education Building No. DataMining Lab
 copyright: Copyright &copy; 2020 Designed by)
 
 menu:
@@ -52,7 +52,8 @@ work-process:
   
   - title: "Kakao Track"
     icon: "assets/images/icons/Kakao.png" 
-    content: ""
+    content: "Attendee"
+
 education-title: Education
 education:
   - {
@@ -109,25 +110,13 @@ experience:
       organization: "SW-Centered University of Jeju National University",
     }
   - {
-      name: Lead Organizer<br>(TEDxJNUHighSchool),
-      icon: "Leader.png",
-      date: "September 2017 - December 2018",
-      organization: "TEDxJNUHighSchool",
-    }
-  - {
-      name: Advisor<br>(TEDxJNUHighSchool),
-      icon: "Adviser.png",
-      date: "December 2018 - Present",
-      organization: "TEDxJNUHighSchool",
-    }
-  - {
       name: Mentor<br>(Jeju Social Welfare Center ChildFund Korea),
       icon: "Mentor.png",
       date: "April 2022 – October 2022",
       organization: "Jeju Social Welfare Center ChildFund Korea",
     }
   - {
-      name: Mentor<br>(SW Innovation Lecture),
+      name: Mentor<br>(SW Innovation),
       icon: "Mentor.png",
       date: "September 2022 -December 2022",
       organization: "Jeju National University",
@@ -138,6 +127,18 @@ experience:
       date: "March 2023 - Present",
       organization: "Jeju National University",
     }   
+  - {
+      name: Lead Organizer<br>(TEDxJNUHighSchool),
+      icon: "Leader.png",
+      date: "September 2017 - December 2018",
+      organization: "TEDxJNUHighSchool",
+    }
+  - {
+      name: Advisor<br>(TEDxJNUHighSchool),
+      icon: "Adviser.png",
+      date: "December 2018 - Present",
+      organization: "TEDxJNUHighSchool",
+    }    
 #-------------------------------
 # Education Section 
 
