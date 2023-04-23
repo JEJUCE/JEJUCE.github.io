@@ -23,11 +23,8 @@ menu:
 hero:
   hero-title: 혼저옵서예! <br> Greetings! <br> Kia ora!
 
-social:
-  - { icon: "ti-facebook", link: "#" }
-  - { icon: "ti-instagram", link: "#" }
-  - { icon: "ti-dribbble", link: "#" }
-  - { icon: "ti-twitter", link: "#" }
+
+
 
 
 #-------------------------------
